@@ -1,6 +1,6 @@
 {
   "name": "ember-cli",
-  "version": "3.27.0-beta.1",
+  "version": "3.28.0-alpha.1",
   "description": "Command line tool for developing ambitious ember.js apps",
   "keywords": [
     "app",
@@ -106,7 +106,7 @@
     "minimatch": "^3.0.4",
     "morgan": "^1.10.0",
     "nopt": "^3.0.6",
-    "npm-package-arg": "^8.1.1",
+    "npm-package-arg": "^8.1.4",
     "p-defer": "^3.0.0",
     "portfinder": "^1.0.28",
     "promise-map-series": "^0.3.0",
